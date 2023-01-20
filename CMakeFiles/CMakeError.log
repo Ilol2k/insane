@@ -1,0 +1,297 @@
+Determining if the function fcntl exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-fscew6
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8abe7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fcntl /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8abe7.dir\Debug\\" /Fd"cmTC_8abe7.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fscew6\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol fcntl referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fscew6\cmTC_8abe7.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fscew6\Debug\cmTC_8abe7.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fscew6\cmTC_8abe7.vcxproj]
+
+
+
+Determining if the function poll exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-ml4a9n
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8557f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=poll /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8557f.dir\Debug\\" /Fd"cmTC_8557f.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-ml4a9n\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol poll referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-ml4a9n\cmTC_8557f.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-ml4a9n\Debug\cmTC_8557f.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-ml4a9n\cmTC_8557f.vcxproj]
+
+
+
+Determining if the function getaddrinfo exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-c3m7ra
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_da653.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getaddrinfo /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_da653.dir\Debug\\" /Fd"cmTC_da653.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-c3m7ra\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol getaddrinfo referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-c3m7ra\cmTC_da653.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-c3m7ra\Debug\cmTC_da653.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-c3m7ra\cmTC_da653.vcxproj]
+
+
+
+Determining if the function getnameinfo exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-g97wfl
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_f903c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getnameinfo /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f903c.dir\Debug\\" /Fd"cmTC_f903c.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-g97wfl\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol getnameinfo referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-g97wfl\cmTC_f903c.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-g97wfl\Debug\cmTC_f903c.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-g97wfl\cmTC_f903c.vcxproj]
+
+
+
+Determining if the function gethostbyname_r exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-3b17lx
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_a0a32.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gethostbyname_r /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a0a32.dir\Debug\\" /Fd"cmTC_a0a32.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-3b17lx\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gethostbyname_r referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-3b17lx\cmTC_a0a32.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-3b17lx\Debug\cmTC_a0a32.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-3b17lx\cmTC_a0a32.vcxproj]
+
+
+
+Determining if the function gethostbyaddr_r exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-m80v0b
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_be083.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gethostbyaddr_r /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be083.dir\Debug\\" /Fd"cmTC_be083.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-m80v0b\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gethostbyaddr_r referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-m80v0b\cmTC_be083.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-m80v0b\Debug\cmTC_be083.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-m80v0b\cmTC_be083.vcxproj]
+
+
+
+Determining if the function inet_pton exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-cj7zxn
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2b56d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=inet_pton /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2b56d.dir\Debug\\" /Fd"cmTC_2b56d.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-cj7zxn\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol inet_pton referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-cj7zxn\cmTC_2b56d.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-cj7zxn\Debug\cmTC_2b56d.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-cj7zxn\cmTC_2b56d.vcxproj]
+
+
+
+Determining if the function inet_ntop exists failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-xtss9c
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_a0818.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=inet_ntop /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a0818.dir\Debug\\" /Fd"cmTC_a0818.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-xtss9c\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol inet_ntop referenced in function main [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-xtss9c\cmTC_a0818.vcxproj]
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-xtss9c\Debug\cmTC_a0818.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-xtss9c\cmTC_a0818.vcxproj]
+
+
+
+Performing C SOURCE FILE Test HAS_MSGHDR_FLAGS failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-nahv13
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_32e6e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  src.c
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-nahv13\src.c(3,10): fatal  error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-nahv13\cmTC_32e6e.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAS_MSGHDR_FLAGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_32e6e.dir\Debug\\" /Fd"cmTC_32e6e.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-nahv13\src.c"
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/socket.h>
+
+int main()
+{
+  (void)sizeof(((struct msghdr *)0)->msg_flags);
+  return 0;
+}
+
+
+Determining size of socklen_t failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-qimyza
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_45a2a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  HAS_SOCKLEN_T.c
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-qimyza\HAS_SOCKLEN_T.c(2,10): fatal  error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-qimyza\cmTC_45a2a.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_45a2a.dir\Debug\\" /Fd"cmTC_45a2a.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-qimyza\HAS_SOCKLEN_T.c"
+
+
+HAS_SOCKLEN_T.c:
+#include "sys/types.h"
+#include "sys/socket.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(socklen_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the prctl exist failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-qzea8k
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ca9b8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckSymbolExists.cxx
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-qzea8k\CheckSymbolExists.cxx(2,10): fatal  error C1083: Cannot open include file: 'sys/prctl.h': No such file or directory [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-qzea8k\cmTC_ca9b8.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /Fo"cmTC_ca9b8.dir\Debug\\" /Fd"cmTC_ca9b8.dir\Debug\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-qzea8k\CheckSymbolExists.cxx"
+
+
+File CheckSymbolExists.cxx:
+/* */
+#include <sys/prctl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef prctl
+  return ((int*)(&prctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the pthread_setname_np exist failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-f54ug0
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_daefc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckSymbolExists.cxx
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-f54ug0\CheckSymbolExists.cxx(2,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-f54ug0\cmTC_daefc.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /Fo"cmTC_daefc.dir\Debug\\" /Fd"cmTC_daefc.dir\Debug\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-f54ug0\CheckSymbolExists.cxx"
+
+
+File CheckSymbolExists.cxx:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_setname_np
+  return ((int*)(&pthread_setname_np))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-fawuqp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_d130f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  src.c
+C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fawuqp\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fawuqp\cmTC_d130f.vcxproj]
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d130f.dir\Debug\\" /Fd"cmTC_d130f.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-fawuqp\src.c"
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-zw8dpi
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_5b9df.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5b9df.dir\Debug\\" /Fd"cmTC_5b9df.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-zw8dpi\CheckFunctionExists.c"
+LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-zw8dpi\cmTC_5b9df.vcxproj]
+
+
+
+Determining if the function pthread_create exists in the pthread failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/GrowXYZ-V2-main/build/CMakeFiles/CMakeScratch/TryCompile-54hqak
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b8bc8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.4.0+18d5aef85 for .NET Framework
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31933 for x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b8bc8.dir\Debug\\" /Fd"cmTC_b8bc8.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-54hqak\CheckFunctionExists.c"
+LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\Users\Administrator\Desktop\GrowXYZ-V2-main\build\CMakeFiles\CMakeScratch\TryCompile-54hqak\cmTC_b8bc8.vcxproj]
+
+
+
